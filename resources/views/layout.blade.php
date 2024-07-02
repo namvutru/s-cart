@@ -5,7 +5,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700%7CLato%7CKalam:300,400,700">
+    <link rel="stylesheet" type="text/css"
+        href="//fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700%7CLato%7CKalam:300,400,700">
     <link rel="canonical" href="https://demo.s-cart.org" />
     <meta name="description" content="Free website shopping cart for business">
     <meta name="keywords" content>
@@ -151,30 +152,30 @@
         }
     </style>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-..." crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+        integrity="sha384-..." crossorigin="anonymous">
 
 
-<link href="https://db.onlinewebfonts.com/c/30a0adada561ec8493b9dfce36a805f8?family=fl-icons" rel="stylesheet">
+    <link href="https://db.onlinewebfonts.com/c/30a0adada561ec8493b9dfce36a805f8?family=fl-icons" rel="stylesheet">
 
-        <style>
-
-
+    <style>
         @font-face {
-        font-family: "fl-icons";
-        src: url("https://db.onlinewebfonts.com/t/30a0adada561ec8493b9dfce36a805f8.eot");
-        src: url("https://db.onlinewebfonts.com/t/30a0adada561ec8493b9dfce36a805f8.eot?#iefix")format("embedded-opentype"),
-        url("https://db.onlinewebfonts.com/t/30a0adada561ec8493b9dfce36a805f8.woff2")format("woff2"),
-        url("https://db.onlinewebfonts.com/t/30a0adada561ec8493b9dfce36a805f8.woff")format("woff"),
-        url("https://db.onlinewebfonts.com/t/30a0adada561ec8493b9dfce36a805f8.ttf")format("truetype"),
-        url("https://db.onlinewebfonts.com/t/30a0adada561ec8493b9dfce36a805f8.svg#fl-icons")format("svg");
+            font-family: "fl-icons";
+            src: url("https://db.onlinewebfonts.com/t/30a0adada561ec8493b9dfce36a805f8.eot");
+            src: url("https://db.onlinewebfonts.com/t/30a0adada561ec8493b9dfce36a805f8.eot?#iefix")format("embedded-opentype"),
+                url("https://db.onlinewebfonts.com/t/30a0adada561ec8493b9dfce36a805f8.woff2")format("woff2"),
+                url("https://db.onlinewebfonts.com/t/30a0adada561ec8493b9dfce36a805f8.woff")format("woff"),
+                url("https://db.onlinewebfonts.com/t/30a0adada561ec8493b9dfce36a805f8.ttf")format("truetype"),
+                url("https://db.onlinewebfonts.com/t/30a0adada561ec8493b9dfce36a805f8.svg#fl-icons")format("svg");
         }
+
         font-family: "fl-icons";
-        </style>
-        
-      
+    </style>
+
+
     <link rel="stylesheet" href="https://demo.s-cart.org/templates/s-cart-light/css/bootstrap.css">
     <link rel="stylesheet" href="https://demo.s-cart.org/templates/s-cart-light/css/fonts.css">
     <link rel="stylesheet" href="https://demo.s-cart.org/templates/s-cart-light/css/style.css">
@@ -206,7 +207,9 @@
 <body>
     <div class="ie-panel">
         <a href="http://windows.microsoft.com/en-US/internet-explorer/">
-            <img src="https://demo.s-cart.org/templates/s-cart-light/images/ie8-panel/warning_bar_0000_us.jpg" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today.">
+            <img src="https://demo.s-cart.org/templates/s-cart-light/images/ie8-panel/warning_bar_0000_us.jpg"
+                height="42" width="820"
+                alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today.">
         </a>
     </div>
     <div class="page">
@@ -214,17 +217,28 @@
         <header class="section page-header">
 
             <div class="rd-navbar-wrap">
-                <nav class="rd-navbar rd-navbar-classic" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static" data-lg-stick-up-offset="100px" data-xl-stick-up-offset="100px" data-xxl-stick-up-offset="100px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
+                <nav class="rd-navbar rd-navbar-classic" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed"
+                    data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed"
+                    data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fixed"
+                    data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static"
+                    data-xxl-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static"
+                    data-lg-stick-up-offset="100px" data-xl-stick-up-offset="100px" data-xxl-stick-up-offset="100px"
+                    data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
                     <div class="rd-navbar-main-outer">
                         <div class="rd-navbar-main">
 
                             <div class="rd-navbar-panel">
 
-                                <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
+                                <button class="rd-navbar-toggle"
+                                    data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
 
                                 <div class="rd-navbar-brand">
-                                    <a class="brand" href="https://demo.s-cart.org"><img class="brand-logo-dark" src="https://demo.s-cart.org/data/logo/scart-mid.png" alt width="105" height="44" />
-                                        <img class="brand-logo-light" src="https://demo.s-cart.org/data/logo/scart-mid.png" alt width="106" height="44" /></a>
+                                    <a class="brand" href="https://demo.s-cart.org"><img class="brand-logo-dark"
+                                            src="https://demo.s-cart.org/data/logo/scart-mid.png" alt width="105"
+                                            height="44" />
+                                        <img class="brand-logo-light"
+                                            src="https://demo.s-cart.org/data/logo/scart-mid.png" alt width="106"
+                                            height="44" /></a>
                                 </div>
                             </div>
                             <div class="rd-navbar-nav-wrap">
@@ -236,37 +250,38 @@
                                     <li class="rd-nav-item">
                                         <a class="rd-nav-link" href="{{ route('pagecategory') }}"> Shop </a>
                                     </li>
-                                    <li class="rd-nav-item"><a class="rd-nav-link" 
-                                        href="@if(Auth::check())
-                                            {{ route('userinfo') }}
+                                    <li class="rd-nav-item"><a class="rd-nav-link"
+                                            href="@if (Auth::check()) {{ route('userinfo') }}
                                             @else
-                                            {{ route('pagelogin') }}
+                                            {{ route('pagelogin') }} @endif
+                                        "><i
+                                                class="fa fa-lock"></i>
+                                            @if (Auth::check())
+                                                {{ Auth::user()->name }}
+                                            @else
+                                                customer
                                             @endif
-                                        "><i class="fa fa-lock"></i> 
-                                        @if (Auth::check())
-                                            {{Auth::user()->name}}      
-                                        @else
-                                            customer
-                                        @endif
                                         </a>
                                         <ul class="rd-menu rd-navbar-dropdown">
                                             <li class="rd-dropdown-item">
-                                                @if(Auth::check())
-                                                <form action="{{ route('logout') }}" method="post">
-                                                    @csrf
-                                                    <button class="rd-dropdown-link btn font-weight-normal" href=""><i class="fa fa-user"></i> Logout</button>
+                                                @if (Auth::check())
+                                                    <form action="{{ route('logout') }}" method="post">
+                                                        @csrf
+                                                        <button class="rd-dropdown-link btn font-weight-normal"
+                                                            href=""><i class="fa fa-user"></i> Logout</button>
 
-                                                </form>
-                                                
+                                                    </form>
                                                 @else
-                                                <a class="rd-dropdown-link" href="{{ route('pagelogin') }}"><i class="fa fa-user"></i> Login</a>
+                                                    <a class="rd-dropdown-link" href="{{ route('pagelogin') }}"><i
+                                                            class="fa fa-user"></i> Login</a>
                                                 @endif
-                                                
+
                                             </li>
                                             <li class="rd-dropdown-item">
-                                                <a class="rd-dropdown-link" href="{{ route('wishlist') }}"><i class="fas fa-heart"></i> Wishlist
-                                                   
-                                                   {{--  <span class="count sc-wishlist" id="shopping-wishlist">0</span> --}}
+                                                <a class="rd-dropdown-link" href="{{ route('wishlist') }}"><i
+                                                        class="fas fa-heart"></i> Wishlist
+
+                                                    {{--  <span class="count sc-wishlist" id="shopping-wishlist">0</span> --}}
                                                 </a>
                                             </li>
                                             {{-- <li class="rd-dropdown-item">
@@ -315,28 +330,32 @@
                             <div class="rd-navbar-main-element">
 
                                 <div class="rd-navbar-search rd-navbar-search-2">
-                                    <button class="rd-navbar-search-toggle rd-navbar-fixed-element-3" data-rd-navbar-toggle=".rd-navbar-search"><span></span></button>
-                                    <form class="rd-search" action="{{route('search')}}" method="GET">
+                                    <button class="rd-navbar-search-toggle rd-navbar-fixed-element-3"
+                                        data-rd-navbar-toggle=".rd-navbar-search"><span></span></button>
+                                    <form class="rd-search" action="{{ route('search') }}" method="GET">
                                         <div class="form-wrap">
-                                            <input class="rd-navbar-search-form-input form-input" type="text" name="keyword" placeholder="Input keyword" />
+                                            <input class="rd-navbar-search-form-input form-input" type="text"
+                                                name="keyword" placeholder="Input keyword" />
                                             <button class="rd-search-form-submit" type="submit"></button>
                                         </div>
                                     </form>
                                 </div>
-                               
+
 
                                 <div class="rd-navbar-basket-wrap">
                                     <a href="{{ route('cart') }}">
-                                        
+
                                         <button class="rd-navbar-basket fl-bigmug-line-shopping202 ">
-                                            
+
                                             <span class="count sc-cart" id="shopping-cart">{{ $cartcount }}</span>
-                                            
+
                                         </button>
                                     </a>
                                 </div>
-                                
-                                <a title="Shopping cart" style="margin-top:10px;" class="rd-navbar-basket rd-navbar-basket-mobile fl-bigmug-line-shopping202 rd-navbar-fixed-element-2" href="{{ route('cart') }}">
+
+                                <a title="Shopping cart" style="margin-top:10px;"
+                                    class="rd-navbar-basket rd-navbar-basket-mobile fl-bigmug-line-shopping202 rd-navbar-fixed-element-2"
+                                    href="{{ route('cart') }}">
                                     <span class="count sc-cart">{{ $cartcount }}</span>
                                 </a>
                             </div>
@@ -345,10 +364,10 @@
                 </nav>
             </div>
         </header>
- 
+
         @yield('content')
-       
-        
+
+
 
 
 
@@ -358,7 +377,8 @@
                     <div class="row row-40 row-md-50 justify-content-xl-between">
                         <div class="col-sm-6 col-lg-4 col-xl-3 wow fadeInRight">
                             <a href="https://demo.s-cart.org">
-                                <img class="logo-footer" src="https://demo.s-cart.org/data/logo/scart-mid.png" alt="Demo S-Cart : Free Laravel eCommerce">
+                                <img class="logo-footer" src="https://demo.s-cart.org/data/logo/scart-mid.png"
+                                    alt="Demo S-Cart : Free Laravel eCommerce">
                             </a>
                             <p>Demo S-Cart : Free Laravel eCommerce</p>
                             <p> </p>
@@ -366,10 +386,14 @@
                                 <div class="group-lg group-middle">
                                     <div>
                                         <ul class="list-inline list-social list-inline-sm">
-                                            <li><a class="icon mdi mdi-facebook" href="https://www.facebook.com/SCart.Ecommerce/"></a></li>
-                                            <li><a class="icon mdi mdi-twitter" href="https://twitter.com/ecommercescart"></a></li>
+                                            <li><a class="icon mdi mdi-facebook"
+                                                    href="https://www.facebook.com/SCart.Ecommerce/"></a></li>
+                                            <li><a class="icon mdi mdi-twitter"
+                                                    href="https://twitter.com/ecommercescart"></a></li>
                                             <li><a class="icon mdi mdi-instagram" href="#"></a></li>
-                                            <li><a class="icon mdi mdi-youtube-play" href="https://www.youtube.com/channel/UCR8kitefby3N6KvvawQVqdg/videos"></a></li>
+                                            <li><a class="icon mdi mdi-youtube-play"
+                                                    href="https://www.youtube.com/channel/UCR8kitefby3N6KvvawQVqdg/videos"></a>
+                                            </li>
                                         </ul>
                                     </div>
                                 </div>
@@ -387,24 +411,30 @@
                                 <li>
                                     <div class="unit unit-spacing-sm flex-column flex-md-row">
                                         <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
-                                        <div class="unit-body"><a href="tel:#">Hotline: Support: 0987654321</a></div>
+                                        <div class="unit-body"><a href="tel:#">Hotline: Support: 0987654321</a>
+                                        </div>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="unit unit-spacing-sm flex-column flex-md-row">
                                         <div class="unit-left"><span class="icon mdi mdi-email-outline"></span></div>
-                                        <div class="unit-body"><a href="mailto:#demo@s-cart.org">Email: demo@s-cart.org</a></div>
+                                        <div class="unit-body"><a href="mailto:#demo@s-cart.org">Email:
+                                                demo@s-cart.org</a></div>
                                     </div>
                                 </li>
                                 <li>
-                                    <form class="rd-form-inline rd-form-inline-2" method="post" action="https://demo.s-cart.org/subscribe">
-                                        <input type="hidden" name="_token" value="Qi3evAbBJWtB3v7SGJt6MNosNuUttOBO5pG5AYtx">
+                                    <form class="rd-form-inline rd-form-inline-2" method="post"
+                                        action="https://demo.s-cart.org/subscribe">
+                                        <input type="hidden" name="_token"
+                                            value="Qi3evAbBJWtB3v7SGJt6MNosNuUttOBO5pG5AYtx">
                                         <div class="form-wrap">
-                                            <input class="form-input" id="subscribe-form-2-email" type="email" name="subscribe_email" required />
+                                            <input class="form-input" id="subscribe-form-2-email" type="email"
+                                                name="subscribe_email" required />
                                             <label class="form-label" for="subscribe-form-2-email">Email</label>
                                         </div>
                                         <div class="form-button">
-                                            <button class="button button-icon-2 button-zakaria button-primary" type="submit" title="Subscribe email">
+                                            <button class="button button-icon-2 button-zakaria button-primary"
+                                                type="submit" title="Subscribe email">
                                                 <span class="fl-bigmug-line-paper122"></span>
                                             </button>
                                         </div>
@@ -417,13 +447,16 @@
 
                             <ul class="contacts-creative">
                                 <li class="rd-nav-item">
-                                    <a class="rd-nav-link" href="https://demo.s-cart.org/customer/login.html">My profile</a>
+                                    <a class="rd-nav-link" href="https://demo.s-cart.org/customer/login.html">My
+                                        profile</a>
                                 </li>
                                 <li class="rd-nav-item">
-                                    <a class="rd-nav-link" href="https://demo.s-cart.org/compare.html">Product compare</a>
+                                    <a class="rd-nav-link" href="https://demo.s-cart.org/compare.html">Product
+                                        compare</a>
                                 </li>
                                 <li class="rd-nav-item">
-                                    <a class="rd-nav-link" href="https://demo.s-cart.org/wishlst.html">Product Wishlist</a>
+                                    <a class="rd-nav-link" href="https://demo.s-cart.org/wishlst.html">Product
+                                        Wishlist</a>
                                 </li>
                             </ul>
                         </div>
@@ -434,9 +467,12 @@
                 <div class="container">
                     <div class="row row-10 align-items-center justify-content-sm-between">
                         <div class="col-md-auto">
-                            <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span><span>&nbsp;</span><span>Demo S-Cart : Free Laravel eCommerce</span><span>.&nbsp; All rights reserved</span></p>
+                            <p class="rights"><span>&copy;&nbsp;</span><span
+                                    class="copyright-year"></span><span>&nbsp;</span><span>Demo S-Cart : Free Laravel
+                                    eCommerce</span><span>.&nbsp; All rights reserved</span></p>
                         </div>
-                        <div class="col-md-auto order-md-1"> <a target="_blank" href="https://www.facebook.com/groups/scart.opensource">Fanpage FB</a>
+                        <div class="col-md-auto order-md-1"> <a target="_blank"
+                                href="https://www.facebook.com/groups/scart.opensource">Fanpage FB</a>
                         </div>
                         <div class="col-md-auto">
                             Power by <a href="https://s-cart.org">S-Cart 8.1.8</a>
@@ -533,24 +569,24 @@
 
 
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.countdown/2.2.0/jquery.countdown.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.countdown/2.2.0/jquery.countdown.min.js"
+        crossorigin="anonymous"></script>
     <script type="text/javascript">
         $('.countdown_time').each(function() {
             var endTime = $(this).data('time');
             $(this).countdown(endTime, function(tm) {
-                let html = '<div class="countdown_box_cus"><div class="countdown-wrap-cus"><span class="countdown-cus days">%D </span><span class="cd_text">Days</span></div></div><div class="countdown_box_cus"><div class="countdown-wrap-cus"><span class="countdown-cus hours">%H</span><span class="cd_text">Hours</span></div></div><div class="countdown_box_cus"><div class="countdown-wrap-cus"><span class="countdown-cus minutes">%M</span><span class="cd_text">Minutes</span></div></div><div class="countdown_box_cus"><div class="countdown-wrap-cus"><span class="countdown-cus seconds">%S</span><span class="cd_text">Seconds</span></div></div>';
+                let html =
+                    '<div class="countdown_box_cus"><div class="countdown-wrap-cus"><span class="countdown-cus days">%D </span><span class="cd_text">Days</span></div></div><div class="countdown_box_cus"><div class="countdown-wrap-cus"><span class="countdown-cus hours">%H</span><span class="cd_text">Hours</span></div></div><div class="countdown_box_cus"><div class="countdown-wrap-cus"><span class="countdown-cus minutes">%M</span><span class="cd_text">Minutes</span></div></div><div class="countdown_box_cus"><div class="countdown-wrap-cus"><span class="countdown-cus seconds">%S</span><span class="cd_text">Seconds</span></div></div>';
                 $(this).html(tm.strftime(html));
             });
         });
     </script>
 
-<script>
-   
-    @if(Session::has('message'))
-    alertJs('{{ session('type') }}','{{ session('message') }}');           
-    @endif
-  
-  </script>
+    <script>
+        @if (Session::has('message'))
+            alertJs('{{ session('type') }}', '{{ session('message') }}');
+        @endif
+    </script>
 
     @stack('scripts')
 </body>
